@@ -14,7 +14,7 @@ This repository is implementation of the ["Image Super-Resolution Using Dense Sk
 
 ## Train
 
-The 91-image, Set5 dataset converted to HDF5 can be downloaded from the links below.
+The coco2017 50K, Set5 dataset converted to HDF5 can be downloaded from the links below.
 
 | Dataset | Scale | Type | Link |
 |---------|-------|------|------|
