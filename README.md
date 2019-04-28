@@ -70,7 +70,7 @@ PSNR was calculated on the Y channel.
     </tr>
     <tr>
     	<td>
-    		<center><img src="./data/img_052.pnb""></center>
+    		<center><img src="./data/img_052.png""></center>
     	</td>
     	<td>
     		<center><img src="./data/img_052_bicubic_x4.png"></center>
