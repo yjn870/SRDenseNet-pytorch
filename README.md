@@ -3,7 +3,6 @@
 This repository is implementation of the ["Image Super-Resolution Using Dense Skip Connections"](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf).
 
 <center><img src="./thumbnails/fig1.png"></center>
-<center><img src="./thumbnails/fig2.png"></center>
 
 ## Requirements
 
@@ -19,7 +18,7 @@ The 91-image, Set5 dataset converted to HDF5 can be downloaded from the links be
 
 | Dataset | Scale | Type | Link |
 |---------|-------|------|------|
-| coco2017 50K | 4 | Train | [Download]() |
+| coco2017 50K | 4 | Train | [Download](https://www.dropbox.com/s/9fg2oxxezwrspcg/coco2017_x4.h5?dl=0) |
 | Set5 | 4 | Eval | [Download](https://www.dropbox.com/s/dkcwr71tqanvyv7/Set5_x4.h5?dl=0) |
 
 Otherwise, you can use `prepare.py` to create custom dataset.
